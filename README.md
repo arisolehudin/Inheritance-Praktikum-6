@@ -1,0 +1,1 @@
+# Inheritance-Praktikum-6
